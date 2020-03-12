@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//r7chardgh.github.io/react-gh-pages-demo/static/css/main.5f361e03.chunk.css",
+    "main.js": "//r7chardgh.github.io/react-gh-pages-demo/static/js/main.0799745a.chunk.js",
+    "main.js.map": "//r7chardgh.github.io/react-gh-pages-demo/static/js/main.0799745a.chunk.js.map",
+    "runtime-main.js": "//r7chardgh.github.io/react-gh-pages-demo/static/js/runtime-main.cd312b30.js",
+    "runtime-main.js.map": "//r7chardgh.github.io/react-gh-pages-demo/static/js/runtime-main.cd312b30.js.map",
+    "static/js/2.e02c83ff.chunk.js": "//r7chardgh.github.io/react-gh-pages-demo/static/js/2.e02c83ff.chunk.js",
+    "static/js/2.e02c83ff.chunk.js.map": "//r7chardgh.github.io/react-gh-pages-demo/static/js/2.e02c83ff.chunk.js.map",
+    "index.html": "//r7chardgh.github.io/react-gh-pages-demo/index.html",
+    "precache-manifest.a9fa1958e6672383851615230222b3f8.js": "//r7chardgh.github.io/react-gh-pages-demo/precache-manifest.a9fa1958e6672383851615230222b3f8.js",
+    "service-worker.js": "//r7chardgh.github.io/react-gh-pages-demo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "//r7chardgh.github.io/react-gh-pages-demo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e02c83ff.chunk.js.LICENSE.txt": "//r7chardgh.github.io/react-gh-pages-demo/static/js/2.e02c83ff.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "//r7chardgh.github.io/react-gh-pages-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd312b30.js",
+    "static/js/2.e02c83ff.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0799745a.chunk.js"
+  ]
+}
